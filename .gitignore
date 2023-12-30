@@ -1,5 +1,6 @@
 # Папка node_modules (содержит установленные через npm пакеты)
 node_modules/
+.idea
 
 # Файлы журнала ошибок
 npm-debug.log
